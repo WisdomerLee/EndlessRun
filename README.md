@@ -6,5 +6,5 @@
 3: 스피드 증가 속도 언급 없어 Time.deltaTime씩 증가하도록 설정, ComboUI 적용, TriggerEnter 함수 이용하여 새 스크립트 작성 및 Prefab 변경
 4:TrackManager의 Multiplier 프로퍼티 이용하여 변경
 5: ScriptableObject의 ThemeData에서 Obstacle폴더 내부의 Obstacle을 갖고 와 내부에서 소환하는 형태
-
+6: consumable 추상클래스 상속받아 새 클래스 destroyer 생성, 상점 아이템 등장 가능하도록 설정 Scriptable Object 인 Powerup의 consumable배열에 추가
 6의 그림이 이미 내부와 같아 어떤 상황을 요구하는지 명확히 알기 어려움
