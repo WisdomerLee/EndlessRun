@@ -59,6 +59,14 @@ MonoBehaviour:
     m_Address: StarObstacle
     m_ReadOnly: 0
     m_SerializedLabels: []
+  - m_GUID: 0e11d10d5c50bc548a43d85dad98b6ce
+    m_Address: Destroyer
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 31321ba15b8f8eb4c954353edc038b1d
+    m_Address: Destroyer
+    m_ReadOnly: 0
+    m_SerializedLabels: []
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 735e874f947d0e143a6b4e83f8a7283a, type: 2}
   m_SchemaSet:
